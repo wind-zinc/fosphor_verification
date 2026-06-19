@@ -1,2 +1,2 @@
-# fosphor_certification
-A certification platform for fosphor IP core
+# fosphor_verification
+A verify platform for fosphor IP core
